@@ -1,0 +1,10 @@
+--B6CF3D99-1ABE-F31C-628E-AEE4A1BD2832
+Content-Disposition: form-data; name="model"
+
+profile
+--B6CF3D99-1ABE-F31C-628E-AEE4A1BD2832
+Content-Disposition: form-data; name="file"; filename="image.jpg"
+Content-Type: image/jpeg
+
+<_io.BufferedReader name='Images/image.jpg'>
+--B6CF3D99-1ABE-F31C-628E-AEE4A1BD2832--
